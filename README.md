@@ -15,7 +15,7 @@ This project is a specialized fork of [LightRAG](https://github.com/HKUDS/LightR
 
 1. Clone this repository and install dependencies:
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/iceman-1629/Youtube_RAG.git
 cd LightRAG
 pip install -r requirements.txt
 ```
